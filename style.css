@@ -147,6 +147,9 @@ img{
     .foot{
         margin-top: 38vh;
     }
+    .left,.right{
+        width:35vw;
+    }
 }
 @media (max-width:380px) {
     img{
