@@ -161,5 +161,8 @@ img{
     .foot{
         margin-top: 38vh;
     }
+     .left,.right{
+        width:35vw;
+    }
    
 }
